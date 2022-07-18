@@ -1,0 +1,11 @@
+msgid "plugins.generic.gndAuthors.title"
+msgstr "GND Autoren Plugin"
+
+msgid "plugins.generic.gndAuthors.desc"
+msgstr "Dieses Plugin holt sich GND-IDs der Autoren über die lobid API. Die Autoreninfos werden über Autosuggest vorgeschlagen."
+
+msgid "plugins.generic.gndid.field.title"
+msgstr "GND ID"
+
+msgid "plugins.generic.gndid.field.desc"
+msgstr "Die GND ID dieser Person."
